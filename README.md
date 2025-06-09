@@ -15,7 +15,7 @@ A React Native app crafted to bring healthcare closer, powered by Firebase and R
 ### Installation & Launch
 
 ```bash
-git clone <repo-url>
+git clone git@github.com:aldngrha/DoctorApp.git
 cd DoctorApp
 yarn install
 yarn android    # Run on Android device or emulator
